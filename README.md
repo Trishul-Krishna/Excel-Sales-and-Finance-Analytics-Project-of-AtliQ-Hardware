@@ -6,10 +6,10 @@ Hey there! Welcome to my Excel-powered data adventure. This project is all about
 
 ### What I Did:
 1. **Customer Performance Analysis**  
-   I whipped up a detailed report to analyze customer performance and sales contributions. Curious? Check it out [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+   I whipped up a detailed report to analyze customer performance and sales contributions. Curious? Check it out [here](https://github.com/Trishul-Krishna/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Customer%20Netsales%20Sales%20Performance%20Report.pdf).
    
 2. **Sales vs. Market Performance**  
-   Who’s winning—your sales team or the market? I created a side-by-side comparison to find out. Grab the report [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).
+   Who’s winning—your sales team or the market? I created a side-by-side comparison to find out. Grab the report [here](https://github.com/Trishul-Krishna/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/Market%20Performance%20Report.pdf).
 
 ### Why Bother with Sales Analytics?
 Well, who wouldn’t want to see how their sales team is really doing? With some Excel magic, I made it super easy to monitor trends, track KPIs, and find those sweet spots to boost sales performance.
@@ -23,10 +23,10 @@ Well, who wouldn’t want to see how their sales team is really doing? With some
 
 ### What I Did:
 1. **P&L Reports by Fiscal Year**  
-   Because every company loves to know if they’re actually making money, right? Check out my fiscal year P&L report [here](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf).
+   Because every company loves to know if they’re actually making money, right? Check out my fiscal year P&L report [here](https://github.com/Trishul-Krishna/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statements%20By%20Fiscal%20Year.pdf).
    
 2. **P&L Reports by Market**  
-   Markets aren’t created equal—so I broke down profitability by market. Here’s the report if you’re curious: [P&L by Market](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).
+   Markets aren’t created equal—so I broke down profitability by market. Here’s the report if you’re curious: [P&L by Market](https://github.com/Trishul-Krishna/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares/blob/main/P%20%26%20L%20Statements%20By%20Market.pdf).
 
 ### Why Finance Analytics Rocks:
 Because money talks! Analyzing financial data gives you a solid foundation for budgeting, forecasting, and making decisions that can keep your business financially healthy (and keep your boss happy).
